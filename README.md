@@ -4,7 +4,7 @@ The aim of this app is to make emoji drawing for all Apple's platform from iOS t
 
 > Consider leaving a ⭐ if you like the repository.
 
-## App's UI/UX
+## App's UI/UX 📱
 * **iPadOS:**
 <img width="832" alt="image" src="https://user-images.githubusercontent.com/88189594/145951070-aa740f33-61a8-4c9b-aace-dfbc348126c9.png">
 
